@@ -6,3 +6,6 @@ This root README is where the links to daily work should live.
 
 ## Week 1 Challenges
 * [Day 1: Reverse an Array](./otherReadmes/arrayReverse.md)
+
+## Code 301 Challenges
+* [Inside their directory](./301-code-challenges)
