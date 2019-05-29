@@ -8,4 +8,4 @@ This daily README contains information about the first code challenge, including
 
 [Link to tests](../code401challenges/src/test/java/code401challenges/ArrayReverseTest.java)
 
-![Picture of whiteboard for Array Reverse](../assets/DataStructuresWhiteboard.png)
+![Picture of whiteboard for Array Reverse](../assets/DataStructuresWhiteboard.PNG)
